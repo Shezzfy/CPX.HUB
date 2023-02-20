@@ -17,7 +17,7 @@ local Window = Rayfield:CreateWindow({
        FileName = "CPX HUB - KEY SYSTEM",
        SaveKey = true,
        GrabKeyFromSite = false, 
-       Key = "KEY-18e32tt5o067fjc12"
+       Key = "KEY-0213cpx2130e"
     }
  })
 
