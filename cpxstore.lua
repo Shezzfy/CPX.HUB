@@ -119,7 +119,7 @@ local Button = Tab:CreateButton({
  })
  
    local Button = Tab:CreateButton({
-    Name = "❌ | Walk Speed Boost - Off",
+    Name = "❌ | Jump Power Boost - Off",
     Callback = function()
       game.Players.LocalPlayer.Character.Humanoid.JumpPower = 50
     end,
