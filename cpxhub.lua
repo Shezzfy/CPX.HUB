@@ -90,7 +90,7 @@ local Section = Tab:CreateSection("Visual Pets")
 local Button = Tab:CreateButton({
    Name = "🥶 | Visual Huges/Tytanic",
    Callback = function()
-   -- The function that takes place when the button is pressed
+   loadstring(game:HttpGet(('https://raw.githubusercontent.com/Justanotherdme/scripts/main/psxvisualpets.lua')))()
    end,
 })
 
