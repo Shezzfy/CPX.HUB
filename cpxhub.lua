@@ -30,7 +30,7 @@ local Window = Rayfield:CreateWindow({
 })
 
 
- local Tab = Window:CreateTab("Pet Simulator X", 4483362458) -- Title, Image
+ local Tab = Window:CreateTab("Pet Simulator X", 4483362458)
 
  local Button = Tab:CreateButton({
     Name = "✅ | Trade Scam - On",
