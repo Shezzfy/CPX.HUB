@@ -42,7 +42,7 @@ local Window = Rayfield:CreateWindow({
  local Button = Tab:CreateButton({
     Name = "❌ | Trade Scam - Off",
     Callback = function()
-    -- The function that takes place when the button is pressed
+    -- The function that takes place when the button is presse
     end,
  })
 
